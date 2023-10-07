@@ -1,4 +1,4 @@
-= Survey
+## Survey
 Luo, Calvin. 2022. “Understanding Diffusion Models: A Unified Perspective.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2208.11970.
 
 Yang, Ling, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao Zhang, Bin Cui, and Ming-Hsuan Yang. 2022. “Diffusion Models: A Comprehensive Survey of Methods and Applications.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2209.00796v10.
@@ -6,7 +6,7 @@ Yang, Ling, Zhilong Zhang, Yang Song, Shenda Hong, Runsheng Xu, Yue Zhao, Wentao
 Cao, Hanqun, Cheng Tan, Zhangyang Gao, Yilun Xu, Guangyong Chen, Pheng-Ann Heng, and Stan Z. Li. 2022. “A Survey on Generative Diffusion Model.” arXiv [cs.AI]. arXiv. http://arxiv.org/abs/2209.02646.
 
 
-= RecSys
+## RecSys
 
 Li, Zihao, Aixin Sun, and Chenliang Li. 2023. “DiffuRec: A Diffusion Model for Sequential Recommendation.” arXiv [cs.IR]. arXiv. http://arxiv.org/abs/2304.00686.
 
@@ -19,7 +19,7 @@ Zhang, Lingzi, Yong Liu, Xin Zhou, Chunyan Miao, Guoxin Wang, and Haihong Tang. 
 Du, Boxin, Lihui Liu, Jiejun Xu, Fei Wang, and Hanghang Tong. 2023. “Neural Multi-Network Diffusion towards Social Recommendation.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2304.04994.
 
 
-= Etc
+## Etc
 
 Azizi, Shekoofeh, Simon Kornblith, Chitwan Saharia, Mohammad Norouzi, and David J. Fleet. 2023. “Synthetic Data from Diffusion Models Improves ImageNet Classification.” arXiv [cs.CV]. arXiv. http://arxiv.org/abs/2304.08466.
 
